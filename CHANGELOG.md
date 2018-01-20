@@ -14,3 +14,5 @@
 - Clean up temporary files (2018-2-23 13:75:00)
 - Config update (2018-1-27 16:18:00)
 
+- Optimizations (2018-1-20 16:19:00)
+
