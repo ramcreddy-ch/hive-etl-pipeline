@@ -5,3 +5,4 @@
 - Update dependencies (2018-2-13 13:40:00)
 - Add inline comments for clarity (2018-4-11 9:50:00)
 - Enhance error handling (2018-11-27 11:05:00)
+- Update documentation style (2018-4-22 15:15:00)
